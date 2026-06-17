@@ -15,7 +15,8 @@ Source: MySQL Sample Database Tables and fields from the sample database were us
 
 📁 Files Included
 
--mysql_queries.sql – SQL query file with all written queries -Screenshots/ – Folder containing screenshots of query executions and outputs
+-mysql_queries.sql – SQL query file with all written queries 
+-Screenshots/ – Folder containing screenshots of query executions and outputs
 
 ✅ Outcome
 
